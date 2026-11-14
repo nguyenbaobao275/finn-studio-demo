@@ -1,0 +1,2301 @@
+{
+  "brands": [
+    {
+      "id": "veyra-studio",
+      "name": "finn studio"
+    },
+    {
+      "id": "form-atelier",
+      "name": "Form Atelier"
+    }
+  ],
+  "categories": [
+    {
+      "id": "women",
+      "name": "Women",
+      "image": "assets/images/band-collar-shirt.png"
+    },
+    {
+      "id": "men",
+      "name": "Men",
+      "image": "assets/images/quiet-chore-jacket.png"
+    },
+    {
+      "id": "shoes",
+      "name": "Shoes",
+      "image": "assets/images/canvas-slip-ons.png"
+    },
+    {
+      "id": "bags",
+      "name": "Bags",
+      "image": "assets/images/canvas-shoulder-bag.png"
+    },
+    {
+      "id": "accessories",
+      "name": "Accessories",
+      "image": "assets/images/cap.png"
+    }
+  ],
+  "products": [
+    {
+      "id": "bomber",
+      "brandId": "veyra-studio",
+      "name": "Oversized Bomber Jacket",
+      "description": "Oversized Bomber Jacket. A considered everyday piece with clean lines and a tactile finish. Fictional sample product.",
+      "price": {
+        "amountMinor": 2490000,
+        "currency": "VND"
+      },
+      "oldPrice": null,
+      "images": [
+        "assets/images/bomber.png",
+        "assets/images/editorial.png"
+      ],
+      "variants": [
+        {
+          "id": "bomber-black-xs",
+          "colorName": "Black",
+          "colorHex": "#202020",
+          "size": "XS",
+          "stock": 3,
+          "images": [
+            "assets/images/bomber.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "bomber-black-s",
+          "colorName": "Black",
+          "colorHex": "#202020",
+          "size": "S",
+          "stock": 4,
+          "images": [
+            "assets/images/bomber.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "bomber-black-m",
+          "colorName": "Black",
+          "colorHex": "#202020",
+          "size": "M",
+          "stock": 5,
+          "images": [
+            "assets/images/bomber.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "bomber-black-l",
+          "colorName": "Black",
+          "colorHex": "#202020",
+          "size": "L",
+          "stock": 6,
+          "images": [
+            "assets/images/bomber.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "bomber-black-xl",
+          "colorName": "Black",
+          "colorHex": "#202020",
+          "size": "XL",
+          "stock": 0,
+          "images": [
+            "assets/images/bomber.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "bomber-cream-xs",
+          "colorName": "Cream",
+          "colorHex": "#E8E2D5",
+          "size": "XS",
+          "stock": 3,
+          "images": [
+            "assets/images/bomber.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "bomber-cream-s",
+          "colorName": "Cream",
+          "colorHex": "#E8E2D5",
+          "size": "S",
+          "stock": 4,
+          "images": [
+            "assets/images/bomber.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "bomber-cream-m",
+          "colorName": "Cream",
+          "colorHex": "#E8E2D5",
+          "size": "M",
+          "stock": 5,
+          "images": [
+            "assets/images/bomber.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "bomber-cream-l",
+          "colorName": "Cream",
+          "colorHex": "#E8E2D5",
+          "size": "L",
+          "stock": 6,
+          "images": [
+            "assets/images/bomber.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "bomber-cream-xl",
+          "colorName": "Cream",
+          "colorHex": "#E8E2D5",
+          "size": "XL",
+          "stock": 0,
+          "images": [
+            "assets/images/bomber.png",
+            "assets/images/editorial.png"
+          ]
+        }
+      ],
+      "categoryId": "men",
+      "collectionIds": [
+        "new-season"
+      ],
+      "materials": [
+        "Cotton",
+        "Recycled polyester"
+      ],
+      "fit": "Relaxed",
+      "style": "Streetwear",
+      "isNew": true,
+      "isFeatured": true
+    },
+    {
+      "id": "tee",
+      "brandId": "form-atelier",
+      "name": "Essential Cotton Tee",
+      "description": "Essential Cotton Tee. A considered everyday piece with clean lines and a tactile finish. Fictional sample product.",
+      "price": {
+        "amountMinor": 590000,
+        "currency": "VND"
+      },
+      "oldPrice": null,
+      "images": [
+        "assets/images/tee.png",
+        "assets/images/editorial.png"
+      ],
+      "variants": [
+        {
+          "id": "tee-black-xs",
+          "colorName": "Black",
+          "colorHex": "#202020",
+          "size": "XS",
+          "stock": 3,
+          "images": [
+            "assets/images/tee.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "tee-black-s",
+          "colorName": "Black",
+          "colorHex": "#202020",
+          "size": "S",
+          "stock": 4,
+          "images": [
+            "assets/images/tee.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "tee-black-m",
+          "colorName": "Black",
+          "colorHex": "#202020",
+          "size": "M",
+          "stock": 5,
+          "images": [
+            "assets/images/tee.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "tee-black-l",
+          "colorName": "Black",
+          "colorHex": "#202020",
+          "size": "L",
+          "stock": 6,
+          "images": [
+            "assets/images/tee.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "tee-black-xl",
+          "colorName": "Black",
+          "colorHex": "#202020",
+          "size": "XL",
+          "stock": 0,
+          "images": [
+            "assets/images/tee.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "tee-cream-xs",
+          "colorName": "Cream",
+          "colorHex": "#E8E2D5",
+          "size": "XS",
+          "stock": 3,
+          "images": [
+            "assets/images/tee.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "tee-cream-s",
+          "colorName": "Cream",
+          "colorHex": "#E8E2D5",
+          "size": "S",
+          "stock": 4,
+          "images": [
+            "assets/images/tee.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "tee-cream-m",
+          "colorName": "Cream",
+          "colorHex": "#E8E2D5",
+          "size": "M",
+          "stock": 5,
+          "images": [
+            "assets/images/tee.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "tee-cream-l",
+          "colorName": "Cream",
+          "colorHex": "#E8E2D5",
+          "size": "L",
+          "stock": 6,
+          "images": [
+            "assets/images/tee.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "tee-cream-xl",
+          "colorName": "Cream",
+          "colorHex": "#E8E2D5",
+          "size": "XL",
+          "stock": 0,
+          "images": [
+            "assets/images/tee.png",
+            "assets/images/editorial.png"
+          ]
+        }
+      ],
+      "categoryId": "women",
+      "collectionIds": [
+        "new-season",
+        "minimal-essentials"
+      ],
+      "materials": [
+        "Organic cotton"
+      ],
+      "fit": "Regular",
+      "style": "Minimal",
+      "isNew": true,
+      "isFeatured": false
+    },
+    {
+      "id": "trousers",
+      "brandId": "veyra-studio",
+      "name": "Wide-leg Tailored Trousers",
+      "description": "Wide-leg Tailored Trousers. A considered everyday piece with clean lines and a tactile finish. Fictional sample product.",
+      "price": {
+        "amountMinor": 1590000,
+        "currency": "VND"
+      },
+      "oldPrice": {
+        "amountMinor": 1990000,
+        "currency": "VND"
+      },
+      "images": [
+        "assets/images/trousers.png",
+        "assets/images/editorial.png"
+      ],
+      "variants": [
+        {
+          "id": "trousers-black-xs",
+          "colorName": "Black",
+          "colorHex": "#202020",
+          "size": "XS",
+          "stock": 3,
+          "images": [
+            "assets/images/trousers.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "trousers-black-s",
+          "colorName": "Black",
+          "colorHex": "#202020",
+          "size": "S",
+          "stock": 4,
+          "images": [
+            "assets/images/trousers.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "trousers-black-m",
+          "colorName": "Black",
+          "colorHex": "#202020",
+          "size": "M",
+          "stock": 5,
+          "images": [
+            "assets/images/trousers.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "trousers-black-l",
+          "colorName": "Black",
+          "colorHex": "#202020",
+          "size": "L",
+          "stock": 6,
+          "images": [
+            "assets/images/trousers.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "trousers-black-xl",
+          "colorName": "Black",
+          "colorHex": "#202020",
+          "size": "XL",
+          "stock": 0,
+          "images": [
+            "assets/images/trousers.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "trousers-cream-xs",
+          "colorName": "Cream",
+          "colorHex": "#E8E2D5",
+          "size": "XS",
+          "stock": 3,
+          "images": [
+            "assets/images/trousers.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "trousers-cream-s",
+          "colorName": "Cream",
+          "colorHex": "#E8E2D5",
+          "size": "S",
+          "stock": 4,
+          "images": [
+            "assets/images/trousers.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "trousers-cream-m",
+          "colorName": "Cream",
+          "colorHex": "#E8E2D5",
+          "size": "M",
+          "stock": 5,
+          "images": [
+            "assets/images/trousers.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "trousers-cream-l",
+          "colorName": "Cream",
+          "colorHex": "#E8E2D5",
+          "size": "L",
+          "stock": 6,
+          "images": [
+            "assets/images/trousers.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "trousers-cream-xl",
+          "colorName": "Cream",
+          "colorHex": "#E8E2D5",
+          "size": "XL",
+          "stock": 0,
+          "images": [
+            "assets/images/trousers.png",
+            "assets/images/editorial.png"
+          ]
+        }
+      ],
+      "categoryId": "men",
+      "collectionIds": [
+        "new-season"
+      ],
+      "materials": [
+        "Wool",
+        "Viscose"
+      ],
+      "fit": "Wide leg",
+      "style": "Smart Casual",
+      "isNew": true,
+      "isFeatured": true
+    },
+    {
+      "id": "sneakers",
+      "brandId": "form-atelier",
+      "name": "Everyday Leather Sneakers",
+      "description": "Everyday Leather Sneakers. A considered everyday piece with clean lines and a tactile finish. Fictional sample product.",
+      "price": {
+        "amountMinor": 2190000,
+        "currency": "VND"
+      },
+      "oldPrice": null,
+      "images": [
+        "assets/images/sneakers.png",
+        "assets/images/editorial.png"
+      ],
+      "variants": [
+        {
+          "id": "sneakers-black-40",
+          "colorName": "Black",
+          "colorHex": "#202020",
+          "size": "40",
+          "stock": 3,
+          "images": [
+            "assets/images/sneakers.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "sneakers-black-41",
+          "colorName": "Black",
+          "colorHex": "#202020",
+          "size": "41",
+          "stock": 4,
+          "images": [
+            "assets/images/sneakers.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "sneakers-black-42",
+          "colorName": "Black",
+          "colorHex": "#202020",
+          "size": "42",
+          "stock": 5,
+          "images": [
+            "assets/images/sneakers.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "sneakers-black-43",
+          "colorName": "Black",
+          "colorHex": "#202020",
+          "size": "43",
+          "stock": 0,
+          "images": [
+            "assets/images/sneakers.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "sneakers-cream-40",
+          "colorName": "Cream",
+          "colorHex": "#E8E2D5",
+          "size": "40",
+          "stock": 3,
+          "images": [
+            "assets/images/sneakers.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "sneakers-cream-41",
+          "colorName": "Cream",
+          "colorHex": "#E8E2D5",
+          "size": "41",
+          "stock": 4,
+          "images": [
+            "assets/images/sneakers.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "sneakers-cream-42",
+          "colorName": "Cream",
+          "colorHex": "#E8E2D5",
+          "size": "42",
+          "stock": 5,
+          "images": [
+            "assets/images/sneakers.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "sneakers-cream-43",
+          "colorName": "Cream",
+          "colorHex": "#E8E2D5",
+          "size": "43",
+          "stock": 0,
+          "images": [
+            "assets/images/sneakers.png",
+            "assets/images/editorial.png"
+          ]
+        }
+      ],
+      "categoryId": "shoes",
+      "collectionIds": [
+        "new-season"
+      ],
+      "materials": [
+        "Leather",
+        "Rubber"
+      ],
+      "fit": "Regular",
+      "style": "Casual",
+      "isNew": false,
+      "isFeatured": false
+    },
+    {
+      "id": "tote",
+      "brandId": "veyra-studio",
+      "name": "Sculpted Leather Tote",
+      "description": "Sculpted Leather Tote. A considered everyday piece with clean lines and a tactile finish. Fictional sample product.",
+      "price": {
+        "amountMinor": 3290000,
+        "currency": "VND"
+      },
+      "oldPrice": null,
+      "images": [
+        "assets/images/tote.png",
+        "assets/images/editorial.png"
+      ],
+      "variants": [
+        {
+          "id": "tote-black-one-size",
+          "colorName": "Black",
+          "colorHex": "#202020",
+          "size": "One size",
+          "stock": 3,
+          "images": [
+            "assets/images/tote.png",
+            "assets/images/editorial.png"
+          ]
+        },
+        {
+          "id": "tote-cream-one-size",
+          "colorName": "Cream",
+          "colorHex": "#E8E2D5",
+          "size": "One size",
+          "stock": 3,
+          "images": [
+            "assets/images/tote.png",
+            "assets/images/editorial.png"
+          ]
+        }
+      ],
+      "categoryId": "bags",
+      "collectionIds": [
+        "new-season",
+        "minimal-essentials"
+      ],
+      "materials": [
+        "Leather"
+      ],
+      "fit": "One size",
+      "style": "Minimal",
+      "isNew": false,
+      "isFeatured": true
+    },
+    {
+      "id": "cap",
+      "brandId": "form-atelier",
+      "name": "Structured Cotton Cap",
+      "description": "Structured Cotton Cap. A considered everyday piece with clean lines and a tactile finish. Fictional sample product.",
+      "price": {
+        "amountMinor": 490000,
+        "currency": "VND"
+      },
+      "oldPrice": null,
+      "images": [
+        "assets/images/cap.png"
+      ],
+      "variants": [
+        {
+          "id": "cap-black-one-size",
+          "colorName": "Black",
+          "colorHex": "#202020",
+          "size": "One size",
+          "stock": 3,
+          "images": [
+            "assets/images/cap.png"
+          ]
+        },
+        {
+          "id": "cap-cream-one-size",
+          "colorName": "Cream",
+          "colorHex": "#E8E2D5",
+          "size": "One size",
+          "stock": 3,
+          "images": [
+            "assets/images/cap.png"
+          ]
+        }
+      ],
+      "categoryId": "accessories",
+      "collectionIds": [
+        "new-season"
+      ],
+      "materials": [
+        "Cotton"
+      ],
+      "fit": "Adjustable",
+      "style": "Streetwear",
+      "isNew": false,
+      "isFeatured": false
+    },
+    {
+      "id": "chore-jacket",
+      "brandId": "veyra-studio",
+      "name": "Washed Twill Chore Jacket",
+      "description": "A softly structured everyday jacket cut from washed cotton twill with practical patch pockets. Fictional sample product.",
+      "price": {
+        "amountMinor": 1890000,
+        "currency": "VND"
+      },
+      "oldPrice": null,
+      "images": [
+        "assets/images/quiet-chore-jacket.png"
+      ],
+      "variants": [
+        {
+          "id": "chore-jacket-oat-xs",
+          "colorName": "Oat",
+          "colorHex": "#CBBEAA",
+          "size": "XS",
+          "stock": 3,
+          "images": [
+            "assets/images/quiet-chore-jacket.png"
+          ]
+        },
+        {
+          "id": "chore-jacket-oat-s",
+          "colorName": "Oat",
+          "colorHex": "#CBBEAA",
+          "size": "S",
+          "stock": 5,
+          "images": [
+            "assets/images/quiet-chore-jacket.png"
+          ]
+        },
+        {
+          "id": "chore-jacket-oat-m",
+          "colorName": "Oat",
+          "colorHex": "#CBBEAA",
+          "size": "M",
+          "stock": 6,
+          "images": [
+            "assets/images/quiet-chore-jacket.png"
+          ]
+        },
+        {
+          "id": "chore-jacket-oat-l",
+          "colorName": "Oat",
+          "colorHex": "#CBBEAA",
+          "size": "L",
+          "stock": 4,
+          "images": [
+            "assets/images/quiet-chore-jacket.png"
+          ]
+        },
+        {
+          "id": "chore-jacket-oat-xl",
+          "colorName": "Oat",
+          "colorHex": "#CBBEAA",
+          "size": "XL",
+          "stock": 2,
+          "images": [
+            "assets/images/quiet-chore-jacket.png"
+          ]
+        },
+        {
+          "id": "chore-jacket-charcoal-xs",
+          "colorName": "Charcoal",
+          "colorHex": "#343331",
+          "size": "XS",
+          "stock": 3,
+          "images": [
+            "assets/images/quiet-chore-jacket.png"
+          ]
+        },
+        {
+          "id": "chore-jacket-charcoal-s",
+          "colorName": "Charcoal",
+          "colorHex": "#343331",
+          "size": "S",
+          "stock": 5,
+          "images": [
+            "assets/images/quiet-chore-jacket.png"
+          ]
+        },
+        {
+          "id": "chore-jacket-charcoal-m",
+          "colorName": "Charcoal",
+          "colorHex": "#343331",
+          "size": "M",
+          "stock": 6,
+          "images": [
+            "assets/images/quiet-chore-jacket.png"
+          ]
+        },
+        {
+          "id": "chore-jacket-charcoal-l",
+          "colorName": "Charcoal",
+          "colorHex": "#343331",
+          "size": "L",
+          "stock": 4,
+          "images": [
+            "assets/images/quiet-chore-jacket.png"
+          ]
+        },
+        {
+          "id": "chore-jacket-charcoal-xl",
+          "colorName": "Charcoal",
+          "colorHex": "#343331",
+          "size": "XL",
+          "stock": 2,
+          "images": [
+            "assets/images/quiet-chore-jacket.png"
+          ]
+        }
+      ],
+      "categoryId": "men",
+      "collectionIds": [
+        "new-season",
+        "minimal-essentials",
+        "quiet-capsule"
+      ],
+      "materials": [
+        "Washed cotton twill"
+      ],
+      "fit": "Relaxed",
+      "style": "Minimal",
+      "isNew": true,
+      "isFeatured": true
+    },
+    {
+      "id": "rib-cardigan",
+      "brandId": "veyra-studio",
+      "name": "Fine Rib Knit Cardigan",
+      "description": "A soft cotton-wool cardigan with a clean V neckline, tonal buttons and an easy straight fit. Fictional sample product.",
+      "price": {
+        "amountMinor": 1490000,
+        "currency": "VND"
+      },
+      "oldPrice": null,
+      "images": [
+        "assets/images/rib-knit-cardigan.png"
+      ],
+      "variants": [
+        {
+          "id": "rib-cardigan-oatmeal-xs",
+          "colorName": "Oatmeal",
+          "colorHex": "#E7DED0",
+          "size": "XS",
+          "stock": 3,
+          "images": [
+            "assets/images/rib-knit-cardigan.png"
+          ]
+        },
+        {
+          "id": "rib-cardigan-oatmeal-s",
+          "colorName": "Oatmeal",
+          "colorHex": "#E7DED0",
+          "size": "S",
+          "stock": 5,
+          "images": [
+            "assets/images/rib-knit-cardigan.png"
+          ]
+        },
+        {
+          "id": "rib-cardigan-oatmeal-m",
+          "colorName": "Oatmeal",
+          "colorHex": "#E7DED0",
+          "size": "M",
+          "stock": 6,
+          "images": [
+            "assets/images/rib-knit-cardigan.png"
+          ]
+        },
+        {
+          "id": "rib-cardigan-oatmeal-l",
+          "colorName": "Oatmeal",
+          "colorHex": "#E7DED0",
+          "size": "L",
+          "stock": 4,
+          "images": [
+            "assets/images/rib-knit-cardigan.png"
+          ]
+        },
+        {
+          "id": "rib-cardigan-oatmeal-xl",
+          "colorName": "Oatmeal",
+          "colorHex": "#E7DED0",
+          "size": "XL",
+          "stock": 2,
+          "images": [
+            "assets/images/rib-knit-cardigan.png"
+          ]
+        },
+        {
+          "id": "rib-cardigan-moss-gray-xs",
+          "colorName": "Moss Gray",
+          "colorHex": "#747668",
+          "size": "XS",
+          "stock": 3,
+          "images": [
+            "assets/images/rib-knit-cardigan.png"
+          ]
+        },
+        {
+          "id": "rib-cardigan-moss-gray-s",
+          "colorName": "Moss Gray",
+          "colorHex": "#747668",
+          "size": "S",
+          "stock": 5,
+          "images": [
+            "assets/images/rib-knit-cardigan.png"
+          ]
+        },
+        {
+          "id": "rib-cardigan-moss-gray-m",
+          "colorName": "Moss Gray",
+          "colorHex": "#747668",
+          "size": "M",
+          "stock": 6,
+          "images": [
+            "assets/images/rib-knit-cardigan.png"
+          ]
+        },
+        {
+          "id": "rib-cardigan-moss-gray-l",
+          "colorName": "Moss Gray",
+          "colorHex": "#747668",
+          "size": "L",
+          "stock": 4,
+          "images": [
+            "assets/images/rib-knit-cardigan.png"
+          ]
+        },
+        {
+          "id": "rib-cardigan-moss-gray-xl",
+          "colorName": "Moss Gray",
+          "colorHex": "#747668",
+          "size": "XL",
+          "stock": 2,
+          "images": [
+            "assets/images/rib-knit-cardigan.png"
+          ]
+        }
+      ],
+      "categoryId": "women",
+      "collectionIds": [
+        "new-season",
+        "minimal-essentials",
+        "quiet-capsule"
+      ],
+      "materials": [
+        "Cotton",
+        "Wool"
+      ],
+      "fit": "Relaxed",
+      "style": "Minimal",
+      "isNew": true,
+      "isFeatured": true
+    },
+    {
+      "id": "band-collar-shirt",
+      "brandId": "veyra-studio",
+      "name": "Washed Band-collar Shirt",
+      "description": "A relaxed linen-cotton shirt with a quiet band collar, concealed placket and naturally textured finish. Fictional sample product.",
+      "price": {
+        "amountMinor": 1190000,
+        "currency": "VND"
+      },
+      "oldPrice": null,
+      "images": [
+        "assets/images/band-collar-shirt.png"
+      ],
+      "variants": [
+        {
+          "id": "band-collar-shirt-warm-white-xs",
+          "colorName": "Warm White",
+          "colorHex": "#F3EFE5",
+          "size": "XS",
+          "stock": 3,
+          "images": [
+            "assets/images/band-collar-shirt.png"
+          ]
+        },
+        {
+          "id": "band-collar-shirt-warm-white-s",
+          "colorName": "Warm White",
+          "colorHex": "#F3EFE5",
+          "size": "S",
+          "stock": 5,
+          "images": [
+            "assets/images/band-collar-shirt.png"
+          ]
+        },
+        {
+          "id": "band-collar-shirt-warm-white-m",
+          "colorName": "Warm White",
+          "colorHex": "#F3EFE5",
+          "size": "M",
+          "stock": 6,
+          "images": [
+            "assets/images/band-collar-shirt.png"
+          ]
+        },
+        {
+          "id": "band-collar-shirt-warm-white-l",
+          "colorName": "Warm White",
+          "colorHex": "#F3EFE5",
+          "size": "L",
+          "stock": 4,
+          "images": [
+            "assets/images/band-collar-shirt.png"
+          ]
+        },
+        {
+          "id": "band-collar-shirt-warm-white-xl",
+          "colorName": "Warm White",
+          "colorHex": "#F3EFE5",
+          "size": "XL",
+          "stock": 2,
+          "images": [
+            "assets/images/band-collar-shirt.png"
+          ]
+        },
+        {
+          "id": "band-collar-shirt-clay-xs",
+          "colorName": "Clay",
+          "colorHex": "#B8A38C",
+          "size": "XS",
+          "stock": 3,
+          "images": [
+            "assets/images/band-collar-shirt.png"
+          ]
+        },
+        {
+          "id": "band-collar-shirt-clay-s",
+          "colorName": "Clay",
+          "colorHex": "#B8A38C",
+          "size": "S",
+          "stock": 5,
+          "images": [
+            "assets/images/band-collar-shirt.png"
+          ]
+        },
+        {
+          "id": "band-collar-shirt-clay-m",
+          "colorName": "Clay",
+          "colorHex": "#B8A38C",
+          "size": "M",
+          "stock": 6,
+          "images": [
+            "assets/images/band-collar-shirt.png"
+          ]
+        },
+        {
+          "id": "band-collar-shirt-clay-l",
+          "colorName": "Clay",
+          "colorHex": "#B8A38C",
+          "size": "L",
+          "stock": 4,
+          "images": [
+            "assets/images/band-collar-shirt.png"
+          ]
+        },
+        {
+          "id": "band-collar-shirt-clay-xl",
+          "colorName": "Clay",
+          "colorHex": "#B8A38C",
+          "size": "XL",
+          "stock": 2,
+          "images": [
+            "assets/images/band-collar-shirt.png"
+          ]
+        }
+      ],
+      "categoryId": "women",
+      "collectionIds": [
+        "new-season",
+        "minimal-essentials",
+        "quiet-capsule"
+      ],
+      "materials": [
+        "Linen",
+        "Cotton"
+      ],
+      "fit": "Relaxed",
+      "style": "Minimal",
+      "isNew": true,
+      "isFeatured": true
+    },
+    {
+      "id": "easy-pants",
+      "brandId": "veyra-studio",
+      "name": "Relaxed Tapered Easy Pants",
+      "description": "Soft brushed-cotton trousers with a clean flat front, easy waist and gently tapered cropped leg. Fictional sample product.",
+      "price": {
+        "amountMinor": 1290000,
+        "currency": "VND"
+      },
+      "oldPrice": null,
+      "images": [
+        "assets/images/tapered-easy-pants.png"
+      ],
+      "variants": [
+        {
+          "id": "easy-pants-stone-xs",
+          "colorName": "Stone",
+          "colorHex": "#D1C6B3",
+          "size": "XS",
+          "stock": 3,
+          "images": [
+            "assets/images/tapered-easy-pants.png"
+          ]
+        },
+        {
+          "id": "easy-pants-stone-s",
+          "colorName": "Stone",
+          "colorHex": "#D1C6B3",
+          "size": "S",
+          "stock": 5,
+          "images": [
+            "assets/images/tapered-easy-pants.png"
+          ]
+        },
+        {
+          "id": "easy-pants-stone-m",
+          "colorName": "Stone",
+          "colorHex": "#D1C6B3",
+          "size": "M",
+          "stock": 6,
+          "images": [
+            "assets/images/tapered-easy-pants.png"
+          ]
+        },
+        {
+          "id": "easy-pants-stone-l",
+          "colorName": "Stone",
+          "colorHex": "#D1C6B3",
+          "size": "L",
+          "stock": 4,
+          "images": [
+            "assets/images/tapered-easy-pants.png"
+          ]
+        },
+        {
+          "id": "easy-pants-stone-xl",
+          "colorName": "Stone",
+          "colorHex": "#D1C6B3",
+          "size": "XL",
+          "stock": 2,
+          "images": [
+            "assets/images/tapered-easy-pants.png"
+          ]
+        },
+        {
+          "id": "easy-pants-ink-navy-xs",
+          "colorName": "Ink Navy",
+          "colorHex": "#28313C",
+          "size": "XS",
+          "stock": 3,
+          "images": [
+            "assets/images/tapered-easy-pants.png"
+          ]
+        },
+        {
+          "id": "easy-pants-ink-navy-s",
+          "colorName": "Ink Navy",
+          "colorHex": "#28313C",
+          "size": "S",
+          "stock": 5,
+          "images": [
+            "assets/images/tapered-easy-pants.png"
+          ]
+        },
+        {
+          "id": "easy-pants-ink-navy-m",
+          "colorName": "Ink Navy",
+          "colorHex": "#28313C",
+          "size": "M",
+          "stock": 6,
+          "images": [
+            "assets/images/tapered-easy-pants.png"
+          ]
+        },
+        {
+          "id": "easy-pants-ink-navy-l",
+          "colorName": "Ink Navy",
+          "colorHex": "#28313C",
+          "size": "L",
+          "stock": 4,
+          "images": [
+            "assets/images/tapered-easy-pants.png"
+          ]
+        },
+        {
+          "id": "easy-pants-ink-navy-xl",
+          "colorName": "Ink Navy",
+          "colorHex": "#28313C",
+          "size": "XL",
+          "stock": 2,
+          "images": [
+            "assets/images/tapered-easy-pants.png"
+          ]
+        }
+      ],
+      "categoryId": "men",
+      "collectionIds": [
+        "new-season",
+        "minimal-essentials",
+        "quiet-capsule"
+      ],
+      "materials": [
+        "Brushed cotton"
+      ],
+      "fit": "Tapered",
+      "style": "Minimal",
+      "isNew": true,
+      "isFeatured": false
+    },
+    {
+      "id": "canvas-shoulder-bag",
+      "brandId": "veyra-studio",
+      "name": "Washed Canvas Shoulder Bag",
+      "description": "A softly shaped everyday shoulder bag in heavyweight washed canvas with a wide adjustable strap. Fictional sample product.",
+      "price": {
+        "amountMinor": 790000,
+        "currency": "VND"
+      },
+      "oldPrice": null,
+      "images": [
+        "assets/images/canvas-shoulder-bag.png"
+      ],
+      "variants": [
+        {
+          "id": "canvas-shoulder-bag-ecru-one-size",
+          "colorName": "Ecru",
+          "colorHex": "#DDD1BA",
+          "size": "One size",
+          "stock": 3,
+          "images": [
+            "assets/images/canvas-shoulder-bag.png"
+          ]
+        },
+        {
+          "id": "canvas-shoulder-bag-charcoal-one-size",
+          "colorName": "Charcoal",
+          "colorHex": "#44413E",
+          "size": "One size",
+          "stock": 3,
+          "images": [
+            "assets/images/canvas-shoulder-bag.png"
+          ]
+        }
+      ],
+      "categoryId": "bags",
+      "collectionIds": [
+        "new-season",
+        "minimal-essentials",
+        "quiet-capsule"
+      ],
+      "materials": [
+        "Washed cotton canvas"
+      ],
+      "fit": "One size",
+      "style": "Minimal",
+      "isNew": true,
+      "isFeatured": false
+    },
+    {
+      "id": "linen-overshirt",
+      "brandId": "veyra-studio",
+      "name": "Relaxed Linen Overshirt",
+      "description": "An airy layering piece with a softly washed finish. Fictional sample product.",
+      "price": {
+        "amountMinor": 1390000,
+        "currency": "VND"
+      },
+      "oldPrice": null,
+      "images": [
+        "assets/images/linen-overshirt.png",
+        "assets/images/look-natural-layers.png"
+      ],
+      "variants": [
+        {
+          "id": "linen-overshirt-sand-xs",
+          "colorName": "Warm Sand",
+          "colorHex": "#C9B99F",
+          "size": "XS",
+          "stock": 3,
+          "images": [
+            "assets/images/linen-overshirt.png",
+            "assets/images/look-natural-layers.png"
+          ]
+        },
+        {
+          "id": "linen-overshirt-sand-s",
+          "colorName": "Warm Sand",
+          "colorHex": "#C9B99F",
+          "size": "S",
+          "stock": 4,
+          "images": [
+            "assets/images/linen-overshirt.png",
+            "assets/images/look-natural-layers.png"
+          ]
+        },
+        {
+          "id": "linen-overshirt-sand-m",
+          "colorName": "Warm Sand",
+          "colorHex": "#C9B99F",
+          "size": "M",
+          "stock": 5,
+          "images": [
+            "assets/images/linen-overshirt.png",
+            "assets/images/look-natural-layers.png"
+          ]
+        },
+        {
+          "id": "linen-overshirt-sand-l",
+          "colorName": "Warm Sand",
+          "colorHex": "#C9B99F",
+          "size": "L",
+          "stock": 3,
+          "images": [
+            "assets/images/linen-overshirt.png",
+            "assets/images/look-natural-layers.png"
+          ]
+        },
+        {
+          "id": "linen-overshirt-sand-xl",
+          "colorName": "Warm Sand",
+          "colorHex": "#C9B99F",
+          "size": "XL",
+          "stock": 4,
+          "images": [
+            "assets/images/linen-overshirt.png",
+            "assets/images/look-natural-layers.png"
+          ]
+        },
+        {
+          "id": "linen-overshirt-olive-gray-xs",
+          "colorName": "Olive Gray",
+          "colorHex": "#777463",
+          "size": "XS",
+          "stock": 4,
+          "images": [
+            "assets/images/linen-overshirt.png",
+            "assets/images/look-natural-layers.png"
+          ]
+        },
+        {
+          "id": "linen-overshirt-olive-gray-s",
+          "colorName": "Olive Gray",
+          "colorHex": "#777463",
+          "size": "S",
+          "stock": 5,
+          "images": [
+            "assets/images/linen-overshirt.png",
+            "assets/images/look-natural-layers.png"
+          ]
+        },
+        {
+          "id": "linen-overshirt-olive-gray-m",
+          "colorName": "Olive Gray",
+          "colorHex": "#777463",
+          "size": "M",
+          "stock": 3,
+          "images": [
+            "assets/images/linen-overshirt.png",
+            "assets/images/look-natural-layers.png"
+          ]
+        },
+        {
+          "id": "linen-overshirt-olive-gray-l",
+          "colorName": "Olive Gray",
+          "colorHex": "#777463",
+          "size": "L",
+          "stock": 4,
+          "images": [
+            "assets/images/linen-overshirt.png",
+            "assets/images/look-natural-layers.png"
+          ]
+        },
+        {
+          "id": "linen-overshirt-olive-gray-xl",
+          "colorName": "Olive Gray",
+          "colorHex": "#777463",
+          "size": "XL",
+          "stock": 0,
+          "images": [
+            "assets/images/linen-overshirt.png",
+            "assets/images/look-natural-layers.png"
+          ]
+        }
+      ],
+      "categoryId": "men",
+      "collectionIds": [
+        "new-season",
+        "minimal-essentials",
+        "quiet-capsule",
+        "soft-layers"
+      ],
+      "materials": [
+        "Linen"
+      ],
+      "fit": "Relaxed",
+      "style": "Minimal",
+      "isNew": true,
+      "isFeatured": true
+    },
+    {
+      "id": "poplin-midi-dress",
+      "brandId": "veyra-studio",
+      "name": "Easy Poplin Midi Dress",
+      "description": "A loose button-front dress shaped for unhurried everyday wear. Fictional sample product.",
+      "price": {
+        "amountMinor": 1590000,
+        "currency": "VND"
+      },
+      "oldPrice": null,
+      "images": [
+        "assets/images/poplin-midi-dress.png",
+        "assets/images/look-soft-form.png"
+      ],
+      "variants": [
+        {
+          "id": "poplin-midi-dress-chalk-xs",
+          "colorName": "Chalk White",
+          "colorHex": "#F1EEE5",
+          "size": "XS",
+          "stock": 3,
+          "images": [
+            "assets/images/poplin-midi-dress.png",
+            "assets/images/look-soft-form.png"
+          ]
+        },
+        {
+          "id": "poplin-midi-dress-chalk-s",
+          "colorName": "Chalk White",
+          "colorHex": "#F1EEE5",
+          "size": "S",
+          "stock": 4,
+          "images": [
+            "assets/images/poplin-midi-dress.png",
+            "assets/images/look-soft-form.png"
+          ]
+        },
+        {
+          "id": "poplin-midi-dress-chalk-m",
+          "colorName": "Chalk White",
+          "colorHex": "#F1EEE5",
+          "size": "M",
+          "stock": 5,
+          "images": [
+            "assets/images/poplin-midi-dress.png",
+            "assets/images/look-soft-form.png"
+          ]
+        },
+        {
+          "id": "poplin-midi-dress-chalk-l",
+          "colorName": "Chalk White",
+          "colorHex": "#F1EEE5",
+          "size": "L",
+          "stock": 3,
+          "images": [
+            "assets/images/poplin-midi-dress.png",
+            "assets/images/look-soft-form.png"
+          ]
+        },
+        {
+          "id": "poplin-midi-dress-chalk-xl",
+          "colorName": "Chalk White",
+          "colorHex": "#F1EEE5",
+          "size": "XL",
+          "stock": 4,
+          "images": [
+            "assets/images/poplin-midi-dress.png",
+            "assets/images/look-soft-form.png"
+          ]
+        },
+        {
+          "id": "poplin-midi-dress-clay-xs",
+          "colorName": "Muted Clay",
+          "colorHex": "#9B7864",
+          "size": "XS",
+          "stock": 4,
+          "images": [
+            "assets/images/poplin-midi-dress.png",
+            "assets/images/look-soft-form.png"
+          ]
+        },
+        {
+          "id": "poplin-midi-dress-clay-s",
+          "colorName": "Muted Clay",
+          "colorHex": "#9B7864",
+          "size": "S",
+          "stock": 5,
+          "images": [
+            "assets/images/poplin-midi-dress.png",
+            "assets/images/look-soft-form.png"
+          ]
+        },
+        {
+          "id": "poplin-midi-dress-clay-m",
+          "colorName": "Muted Clay",
+          "colorHex": "#9B7864",
+          "size": "M",
+          "stock": 3,
+          "images": [
+            "assets/images/poplin-midi-dress.png",
+            "assets/images/look-soft-form.png"
+          ]
+        },
+        {
+          "id": "poplin-midi-dress-clay-l",
+          "colorName": "Muted Clay",
+          "colorHex": "#9B7864",
+          "size": "L",
+          "stock": 4,
+          "images": [
+            "assets/images/poplin-midi-dress.png",
+            "assets/images/look-soft-form.png"
+          ]
+        },
+        {
+          "id": "poplin-midi-dress-clay-xl",
+          "colorName": "Muted Clay",
+          "colorHex": "#9B7864",
+          "size": "XL",
+          "stock": 0,
+          "images": [
+            "assets/images/poplin-midi-dress.png",
+            "assets/images/look-soft-form.png"
+          ]
+        }
+      ],
+      "categoryId": "women",
+      "collectionIds": [
+        "new-season",
+        "minimal-essentials",
+        "quiet-capsule",
+        "soft-layers"
+      ],
+      "materials": [
+        "Cotton poplin"
+      ],
+      "fit": "Relaxed",
+      "style": "Minimal",
+      "isNew": true,
+      "isFeatured": true
+    },
+    {
+      "id": "double-gauze-shirt",
+      "brandId": "veyra-studio",
+      "name": "Double-gauze Relaxed Shirt",
+      "description": "A breathable band-collar shirt with a tactile crinkled surface. Fictional sample product.",
+      "price": {
+        "amountMinor": 1090000,
+        "currency": "VND"
+      },
+      "oldPrice": null,
+      "images": [
+        "assets/images/double-gauze-shirt.png",
+        "assets/images/look-everyday-ease.png"
+      ],
+      "variants": [
+        {
+          "id": "double-gauze-shirt-ecru-xs",
+          "colorName": "Natural Ecru",
+          "colorHex": "#E6DDCC",
+          "size": "XS",
+          "stock": 3,
+          "images": [
+            "assets/images/double-gauze-shirt.png",
+            "assets/images/look-everyday-ease.png"
+          ]
+        },
+        {
+          "id": "double-gauze-shirt-ecru-s",
+          "colorName": "Natural Ecru",
+          "colorHex": "#E6DDCC",
+          "size": "S",
+          "stock": 4,
+          "images": [
+            "assets/images/double-gauze-shirt.png",
+            "assets/images/look-everyday-ease.png"
+          ]
+        },
+        {
+          "id": "double-gauze-shirt-ecru-m",
+          "colorName": "Natural Ecru",
+          "colorHex": "#E6DDCC",
+          "size": "M",
+          "stock": 5,
+          "images": [
+            "assets/images/double-gauze-shirt.png",
+            "assets/images/look-everyday-ease.png"
+          ]
+        },
+        {
+          "id": "double-gauze-shirt-ecru-l",
+          "colorName": "Natural Ecru",
+          "colorHex": "#E6DDCC",
+          "size": "L",
+          "stock": 3,
+          "images": [
+            "assets/images/double-gauze-shirt.png",
+            "assets/images/look-everyday-ease.png"
+          ]
+        },
+        {
+          "id": "double-gauze-shirt-ecru-xl",
+          "colorName": "Natural Ecru",
+          "colorHex": "#E6DDCC",
+          "size": "XL",
+          "stock": 4,
+          "images": [
+            "assets/images/double-gauze-shirt.png",
+            "assets/images/look-everyday-ease.png"
+          ]
+        },
+        {
+          "id": "double-gauze-shirt-charcoal-xs",
+          "colorName": "Charcoal",
+          "colorHex": "#4C4945",
+          "size": "XS",
+          "stock": 4,
+          "images": [
+            "assets/images/double-gauze-shirt.png",
+            "assets/images/look-everyday-ease.png"
+          ]
+        },
+        {
+          "id": "double-gauze-shirt-charcoal-s",
+          "colorName": "Charcoal",
+          "colorHex": "#4C4945",
+          "size": "S",
+          "stock": 5,
+          "images": [
+            "assets/images/double-gauze-shirt.png",
+            "assets/images/look-everyday-ease.png"
+          ]
+        },
+        {
+          "id": "double-gauze-shirt-charcoal-m",
+          "colorName": "Charcoal",
+          "colorHex": "#4C4945",
+          "size": "M",
+          "stock": 3,
+          "images": [
+            "assets/images/double-gauze-shirt.png",
+            "assets/images/look-everyday-ease.png"
+          ]
+        },
+        {
+          "id": "double-gauze-shirt-charcoal-l",
+          "colorName": "Charcoal",
+          "colorHex": "#4C4945",
+          "size": "L",
+          "stock": 4,
+          "images": [
+            "assets/images/double-gauze-shirt.png",
+            "assets/images/look-everyday-ease.png"
+          ]
+        },
+        {
+          "id": "double-gauze-shirt-charcoal-xl",
+          "colorName": "Charcoal",
+          "colorHex": "#4C4945",
+          "size": "XL",
+          "stock": 0,
+          "images": [
+            "assets/images/double-gauze-shirt.png",
+            "assets/images/look-everyday-ease.png"
+          ]
+        }
+      ],
+      "categoryId": "men",
+      "collectionIds": [
+        "new-season",
+        "minimal-essentials",
+        "quiet-capsule",
+        "soft-layers"
+      ],
+      "materials": [
+        "Cotton gauze"
+      ],
+      "fit": "Relaxed",
+      "style": "Minimal",
+      "isNew": true,
+      "isFeatured": true
+    },
+    {
+      "id": "knit-polo",
+      "brandId": "veyra-studio",
+      "name": "Cotton Knit Open Polo",
+      "description": "A lightweight knit polo with a clean open collar. Fictional sample product.",
+      "price": {
+        "amountMinor": 990000,
+        "currency": "VND"
+      },
+      "oldPrice": null,
+      "images": [
+        "assets/images/knit-polo.png",
+        "assets/images/look-natural-layers.png"
+      ],
+      "variants": [
+        {
+          "id": "knit-polo-oatmeal-xs",
+          "colorName": "Oatmeal",
+          "colorHex": "#D9CFBC",
+          "size": "XS",
+          "stock": 3,
+          "images": [
+            "assets/images/knit-polo.png",
+            "assets/images/look-natural-layers.png"
+          ]
+        },
+        {
+          "id": "knit-polo-oatmeal-s",
+          "colorName": "Oatmeal",
+          "colorHex": "#D9CFBC",
+          "size": "S",
+          "stock": 4,
+          "images": [
+            "assets/images/knit-polo.png",
+            "assets/images/look-natural-layers.png"
+          ]
+        },
+        {
+          "id": "knit-polo-oatmeal-m",
+          "colorName": "Oatmeal",
+          "colorHex": "#D9CFBC",
+          "size": "M",
+          "stock": 5,
+          "images": [
+            "assets/images/knit-polo.png",
+            "assets/images/look-natural-layers.png"
+          ]
+        },
+        {
+          "id": "knit-polo-oatmeal-l",
+          "colorName": "Oatmeal",
+          "colorHex": "#D9CFBC",
+          "size": "L",
+          "stock": 3,
+          "images": [
+            "assets/images/knit-polo.png",
+            "assets/images/look-natural-layers.png"
+          ]
+        },
+        {
+          "id": "knit-polo-oatmeal-xl",
+          "colorName": "Oatmeal",
+          "colorHex": "#D9CFBC",
+          "size": "XL",
+          "stock": 4,
+          "images": [
+            "assets/images/knit-polo.png",
+            "assets/images/look-natural-layers.png"
+          ]
+        },
+        {
+          "id": "knit-polo-ink-navy-xs",
+          "colorName": "Ink Navy",
+          "colorHex": "#252B38",
+          "size": "XS",
+          "stock": 4,
+          "images": [
+            "assets/images/knit-polo.png",
+            "assets/images/look-natural-layers.png"
+          ]
+        },
+        {
+          "id": "knit-polo-ink-navy-s",
+          "colorName": "Ink Navy",
+          "colorHex": "#252B38",
+          "size": "S",
+          "stock": 5,
+          "images": [
+            "assets/images/knit-polo.png",
+            "assets/images/look-natural-layers.png"
+          ]
+        },
+        {
+          "id": "knit-polo-ink-navy-m",
+          "colorName": "Ink Navy",
+          "colorHex": "#252B38",
+          "size": "M",
+          "stock": 3,
+          "images": [
+            "assets/images/knit-polo.png",
+            "assets/images/look-natural-layers.png"
+          ]
+        },
+        {
+          "id": "knit-polo-ink-navy-l",
+          "colorName": "Ink Navy",
+          "colorHex": "#252B38",
+          "size": "L",
+          "stock": 4,
+          "images": [
+            "assets/images/knit-polo.png",
+            "assets/images/look-natural-layers.png"
+          ]
+        },
+        {
+          "id": "knit-polo-ink-navy-xl",
+          "colorName": "Ink Navy",
+          "colorHex": "#252B38",
+          "size": "XL",
+          "stock": 0,
+          "images": [
+            "assets/images/knit-polo.png",
+            "assets/images/look-natural-layers.png"
+          ]
+        }
+      ],
+      "categoryId": "men",
+      "collectionIds": [
+        "new-season",
+        "minimal-essentials",
+        "quiet-capsule",
+        "soft-layers"
+      ],
+      "materials": [
+        "Cotton knit"
+      ],
+      "fit": "Regular",
+      "style": "Minimal",
+      "isNew": true,
+      "isFeatured": false
+    },
+    {
+      "id": "barrel-leg-pants",
+      "brandId": "veyra-studio",
+      "name": "Barrel-leg Cotton Pants",
+      "description": "Softly structured trousers with room through the leg. Fictional sample product.",
+      "price": {
+        "amountMinor": 1290000,
+        "currency": "VND"
+      },
+      "oldPrice": null,
+      "images": [
+        "assets/images/barrel-leg-pants.png",
+        "assets/images/look-natural-layers.png"
+      ],
+      "variants": [
+        {
+          "id": "barrel-leg-pants-stone-xs",
+          "colorName": "Warm Stone",
+          "colorHex": "#C9BEAA",
+          "size": "XS",
+          "stock": 3,
+          "images": [
+            "assets/images/barrel-leg-pants.png",
+            "assets/images/look-natural-layers.png"
+          ]
+        },
+        {
+          "id": "barrel-leg-pants-stone-s",
+          "colorName": "Warm Stone",
+          "colorHex": "#C9BEAA",
+          "size": "S",
+          "stock": 4,
+          "images": [
+            "assets/images/barrel-leg-pants.png",
+            "assets/images/look-natural-layers.png"
+          ]
+        },
+        {
+          "id": "barrel-leg-pants-stone-m",
+          "colorName": "Warm Stone",
+          "colorHex": "#C9BEAA",
+          "size": "M",
+          "stock": 5,
+          "images": [
+            "assets/images/barrel-leg-pants.png",
+            "assets/images/look-natural-layers.png"
+          ]
+        },
+        {
+          "id": "barrel-leg-pants-stone-l",
+          "colorName": "Warm Stone",
+          "colorHex": "#C9BEAA",
+          "size": "L",
+          "stock": 3,
+          "images": [
+            "assets/images/barrel-leg-pants.png",
+            "assets/images/look-natural-layers.png"
+          ]
+        },
+        {
+          "id": "barrel-leg-pants-stone-xl",
+          "colorName": "Warm Stone",
+          "colorHex": "#C9BEAA",
+          "size": "XL",
+          "stock": 4,
+          "images": [
+            "assets/images/barrel-leg-pants.png",
+            "assets/images/look-natural-layers.png"
+          ]
+        },
+        {
+          "id": "barrel-leg-pants-charcoal-xs",
+          "colorName": "Charcoal",
+          "colorHex": "#4A4845",
+          "size": "XS",
+          "stock": 4,
+          "images": [
+            "assets/images/barrel-leg-pants.png",
+            "assets/images/look-natural-layers.png"
+          ]
+        },
+        {
+          "id": "barrel-leg-pants-charcoal-s",
+          "colorName": "Charcoal",
+          "colorHex": "#4A4845",
+          "size": "S",
+          "stock": 5,
+          "images": [
+            "assets/images/barrel-leg-pants.png",
+            "assets/images/look-natural-layers.png"
+          ]
+        },
+        {
+          "id": "barrel-leg-pants-charcoal-m",
+          "colorName": "Charcoal",
+          "colorHex": "#4A4845",
+          "size": "M",
+          "stock": 3,
+          "images": [
+            "assets/images/barrel-leg-pants.png",
+            "assets/images/look-natural-layers.png"
+          ]
+        },
+        {
+          "id": "barrel-leg-pants-charcoal-l",
+          "colorName": "Charcoal",
+          "colorHex": "#4A4845",
+          "size": "L",
+          "stock": 4,
+          "images": [
+            "assets/images/barrel-leg-pants.png",
+            "assets/images/look-natural-layers.png"
+          ]
+        },
+        {
+          "id": "barrel-leg-pants-charcoal-xl",
+          "colorName": "Charcoal",
+          "colorHex": "#4A4845",
+          "size": "XL",
+          "stock": 0,
+          "images": [
+            "assets/images/barrel-leg-pants.png",
+            "assets/images/look-natural-layers.png"
+          ]
+        }
+      ],
+      "categoryId": "women",
+      "collectionIds": [
+        "new-season",
+        "minimal-essentials",
+        "quiet-capsule",
+        "soft-layers"
+      ],
+      "materials": [
+        "Brushed cotton"
+      ],
+      "fit": "Barrel leg",
+      "style": "Minimal",
+      "isNew": true,
+      "isFeatured": true
+    },
+    {
+      "id": "canvas-slip-ons",
+      "brandId": "veyra-studio",
+      "name": "Everyday Canvas Slip-ons",
+      "description": "Low-profile canvas shoes finished with a flexible rubber sole. Fictional sample product.",
+      "price": {
+        "amountMinor": 890000,
+        "currency": "VND"
+      },
+      "oldPrice": null,
+      "images": [
+        "assets/images/canvas-slip-ons.png",
+        "assets/images/look-everyday-ease.png"
+      ],
+      "variants": [
+        {
+          "id": "canvas-slip-ons-ecru-36",
+          "colorName": "Natural Ecru",
+          "colorHex": "#E7DFCF",
+          "size": "36",
+          "stock": 3,
+          "images": [
+            "assets/images/canvas-slip-ons.png",
+            "assets/images/look-everyday-ease.png"
+          ]
+        },
+        {
+          "id": "canvas-slip-ons-ecru-37",
+          "colorName": "Natural Ecru",
+          "colorHex": "#E7DFCF",
+          "size": "37",
+          "stock": 4,
+          "images": [
+            "assets/images/canvas-slip-ons.png",
+            "assets/images/look-everyday-ease.png"
+          ]
+        },
+        {
+          "id": "canvas-slip-ons-ecru-38",
+          "colorName": "Natural Ecru",
+          "colorHex": "#E7DFCF",
+          "size": "38",
+          "stock": 5,
+          "images": [
+            "assets/images/canvas-slip-ons.png",
+            "assets/images/look-everyday-ease.png"
+          ]
+        },
+        {
+          "id": "canvas-slip-ons-ecru-39",
+          "colorName": "Natural Ecru",
+          "colorHex": "#E7DFCF",
+          "size": "39",
+          "stock": 3,
+          "images": [
+            "assets/images/canvas-slip-ons.png",
+            "assets/images/look-everyday-ease.png"
+          ]
+        },
+        {
+          "id": "canvas-slip-ons-ecru-40",
+          "colorName": "Natural Ecru",
+          "colorHex": "#E7DFCF",
+          "size": "40",
+          "stock": 4,
+          "images": [
+            "assets/images/canvas-slip-ons.png",
+            "assets/images/look-everyday-ease.png"
+          ]
+        },
+        {
+          "id": "canvas-slip-ons-ecru-41",
+          "colorName": "Natural Ecru",
+          "colorHex": "#E7DFCF",
+          "size": "41",
+          "stock": 5,
+          "images": [
+            "assets/images/canvas-slip-ons.png",
+            "assets/images/look-everyday-ease.png"
+          ]
+        },
+        {
+          "id": "canvas-slip-ons-ecru-42",
+          "colorName": "Natural Ecru",
+          "colorHex": "#E7DFCF",
+          "size": "42",
+          "stock": 3,
+          "images": [
+            "assets/images/canvas-slip-ons.png",
+            "assets/images/look-everyday-ease.png"
+          ]
+        },
+        {
+          "id": "canvas-slip-ons-ecru-43",
+          "colorName": "Natural Ecru",
+          "colorHex": "#E7DFCF",
+          "size": "43",
+          "stock": 4,
+          "images": [
+            "assets/images/canvas-slip-ons.png",
+            "assets/images/look-everyday-ease.png"
+          ]
+        },
+        {
+          "id": "canvas-slip-ons-charcoal-36",
+          "colorName": "Muted Charcoal",
+          "colorHex": "#555250",
+          "size": "36",
+          "stock": 4,
+          "images": [
+            "assets/images/canvas-slip-ons.png",
+            "assets/images/look-everyday-ease.png"
+          ]
+        },
+        {
+          "id": "canvas-slip-ons-charcoal-37",
+          "colorName": "Muted Charcoal",
+          "colorHex": "#555250",
+          "size": "37",
+          "stock": 5,
+          "images": [
+            "assets/images/canvas-slip-ons.png",
+            "assets/images/look-everyday-ease.png"
+          ]
+        },
+        {
+          "id": "canvas-slip-ons-charcoal-38",
+          "colorName": "Muted Charcoal",
+          "colorHex": "#555250",
+          "size": "38",
+          "stock": 3,
+          "images": [
+            "assets/images/canvas-slip-ons.png",
+            "assets/images/look-everyday-ease.png"
+          ]
+        },
+        {
+          "id": "canvas-slip-ons-charcoal-39",
+          "colorName": "Muted Charcoal",
+          "colorHex": "#555250",
+          "size": "39",
+          "stock": 4,
+          "images": [
+            "assets/images/canvas-slip-ons.png",
+            "assets/images/look-everyday-ease.png"
+          ]
+        },
+        {
+          "id": "canvas-slip-ons-charcoal-40",
+          "colorName": "Muted Charcoal",
+          "colorHex": "#555250",
+          "size": "40",
+          "stock": 5,
+          "images": [
+            "assets/images/canvas-slip-ons.png",
+            "assets/images/look-everyday-ease.png"
+          ]
+        },
+        {
+          "id": "canvas-slip-ons-charcoal-41",
+          "colorName": "Muted Charcoal",
+          "colorHex": "#555250",
+          "size": "41",
+          "stock": 3,
+          "images": [
+            "assets/images/canvas-slip-ons.png",
+            "assets/images/look-everyday-ease.png"
+          ]
+        },
+        {
+          "id": "canvas-slip-ons-charcoal-42",
+          "colorName": "Muted Charcoal",
+          "colorHex": "#555250",
+          "size": "42",
+          "stock": 4,
+          "images": [
+            "assets/images/canvas-slip-ons.png",
+            "assets/images/look-everyday-ease.png"
+          ]
+        },
+        {
+          "id": "canvas-slip-ons-charcoal-43",
+          "colorName": "Muted Charcoal",
+          "colorHex": "#555250",
+          "size": "43",
+          "stock": 0,
+          "images": [
+            "assets/images/canvas-slip-ons.png",
+            "assets/images/look-everyday-ease.png"
+          ]
+        }
+      ],
+      "categoryId": "shoes",
+      "collectionIds": [
+        "new-season",
+        "minimal-essentials",
+        "quiet-capsule",
+        "soft-layers"
+      ],
+      "materials": [
+        "Cotton canvas",
+        "Rubber"
+      ],
+      "fit": "Regular",
+      "style": "Minimal",
+      "isNew": true,
+      "isFeatured": false
+    }
+  ],
+  "collections": [
+    {
+      "id": "new-season",
+      "title": "New season",
+      "description": "Autumn / Winter, a new perspective.",
+      "image": "assets/images/editorial.png",
+      "productIds": [
+        "bomber",
+        "tee",
+        "trousers",
+        "sneakers",
+        "tote",
+        "cap",
+        "chore-jacket",
+        "rib-cardigan",
+        "band-collar-shirt",
+        "easy-pants",
+        "canvas-shoulder-bag",
+        "linen-overshirt",
+        "poplin-midi-dress",
+        "double-gauze-shirt",
+        "knit-polo",
+        "barrel-leg-pants",
+        "canvas-slip-ons"
+      ]
+    },
+    {
+      "id": "minimal-essentials",
+      "title": "Minimal Essentials",
+      "description": "Fewer pieces. More possibilities.",
+      "image": "assets/images/editorial.png",
+      "productIds": [
+        "tee",
+        "tote",
+        "chore-jacket",
+        "rib-cardigan",
+        "band-collar-shirt",
+        "easy-pants",
+        "canvas-shoulder-bag",
+        "linen-overshirt",
+        "poplin-midi-dress",
+        "double-gauze-shirt",
+        "knit-polo",
+        "barrel-leg-pants",
+        "canvas-slip-ons"
+      ]
+    },
+    {
+      "id": "quiet-capsule",
+      "title": "Quiet Capsule",
+      "description": "Natural textures. Easy forms. Everyday calm.",
+      "image": "assets/images/quiet-chore-jacket.png",
+      "productIds": [
+        "chore-jacket",
+        "rib-cardigan",
+        "band-collar-shirt",
+        "easy-pants",
+        "canvas-shoulder-bag",
+        "linen-overshirt",
+        "poplin-midi-dress",
+        "double-gauze-shirt",
+        "knit-polo",
+        "barrel-leg-pants",
+        "canvas-slip-ons"
+      ]
+    },
+    {
+      "id": "soft-layers",
+      "title": "Soft Layers",
+      "description": "Breathable fabrics, softened form and room to move.",
+      "image": "assets/images/look-natural-layers.png",
+      "productIds": [
+        "linen-overshirt",
+        "poplin-midi-dress",
+        "double-gauze-shirt",
+        "knit-polo",
+        "barrel-leg-pants",
+        "canvas-slip-ons"
+      ]
+    }
+  ],
+  "looks": [
+    {
+      "id": "natural-layers",
+      "title": "Natural Layers",
+      "description": "Linen, soft knit and rounded trousers in warm tonal neutrals.",
+      "image": "assets/images/look-natural-layers.png",
+      "style": "Minimal",
+      "productIds": [
+        "linen-overshirt",
+        "knit-polo",
+        "barrel-leg-pants",
+        "canvas-slip-ons"
+      ]
+    },
+    {
+      "id": "soft-form",
+      "title": "Soft Form",
+      "description": "An easy dress, fine cardigan and washed canvas for slower days.",
+      "image": "assets/images/look-soft-form.png",
+      "style": "Minimal",
+      "productIds": [
+        "poplin-midi-dress",
+        "rib-cardigan",
+        "canvas-shoulder-bag"
+      ]
+    },
+    {
+      "id": "everyday-ease",
+      "title": "Everyday Ease",
+      "description": "Breathable texture and quiet utility for daily movement.",
+      "image": "assets/images/look-everyday-ease.png",
+      "style": "Casual",
+      "productIds": [
+        "double-gauze-shirt",
+        "easy-pants",
+        "canvas-slip-ons",
+        "canvas-shoulder-bag"
+      ]
+    },
+    {
+      "id": "weekend",
+      "title": "The Weekend Look",
+      "description": "Relaxed proportions, grounded in everyday essentials.",
+      "image": "assets/images/editorial.png",
+      "style": "Streetwear",
+      "productIds": [
+        "bomber",
+        "tee",
+        "trousers",
+        "sneakers"
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "id": "r1",
+      "productId": "bomber",
+      "authorName": "Minh",
+      "rating": 4,
+      "body": "Roomy fit with a pleasing weight. Sample review.",
+      "createdAt": "2026-09-01T09:00:00Z",
+      "verifiedPurchase": false
+    }
+  ]
+}
